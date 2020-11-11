@@ -1,0 +1,10 @@
+{
+  "name": "vuex-data",
+  "version": "1.0.0",
+  "description": "'vuex 数据持久化'",
+  "main": "index.js",
+  "repository": "https://github.com/benyl-nie/vuex-data.git",
+  "author": "benyl-nie",
+  "license": "MIT",
+  "dependencies": {}
+}
